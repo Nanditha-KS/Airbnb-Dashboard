@@ -1,4 +1,3 @@
-# Airbnb-Dashboard
 # Airbnb Listings Analysis — Chicago vs New Orleans
 
 ## 📊 Project Overview
